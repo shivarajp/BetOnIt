@@ -1,2 +1,2 @@
-# MVVMRoomViewModelRetrofitExample
-Android sample to demonstrate Room, ViewModel, MVVM, Retrofit to store data locally and also fetch from the API
+# Bet on it
+Long weekend hack project
